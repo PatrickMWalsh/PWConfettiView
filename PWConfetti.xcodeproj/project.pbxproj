@@ -14,7 +14,6 @@
 		43B5C3081F2AAB8700285E2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3071F2AAB8700285E2F /* Assets.xcassets */; };
 		43B5C30B1F2AAB8700285E2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3091F2AAB8700285E2F /* LaunchScreen.storyboard */; };
 		43B5C3141F2AAC1D00285E2F /* PWConfettiView.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5C3131F2AAC1D00285E2F /* PWConfettiView.m */; };
-		43B5C31A1F2AC44100285E2F /* customImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3151F2AC44100285E2F /* customImage.png */; };
 		43B5C31B1F2AC44100285E2F /* confetti.png in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3161F2AC44100285E2F /* confetti.png */; };
 		43B5C31C1F2AC44100285E2F /* diamond.png in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3171F2AC44100285E2F /* diamond.png */; };
 		43B5C31D1F2AC44100285E2F /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 43B5C3181F2AC44100285E2F /* star.png */; };
@@ -34,7 +33,6 @@
 		43B5C30C1F2AAB8700285E2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43B5C3121F2AAC1D00285E2F /* PWConfettiView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PWConfettiView.h; sourceTree = SOURCE_ROOT; };
 		43B5C3131F2AAC1D00285E2F /* PWConfettiView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PWConfettiView.m; sourceTree = SOURCE_ROOT; };
-		43B5C3151F2AC44100285E2F /* customImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = customImage.png; sourceTree = "<group>"; };
 		43B5C3161F2AC44100285E2F /* confetti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = confetti.png; sourceTree = "<group>"; };
 		43B5C3171F2AC44100285E2F /* diamond.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = diamond.png; sourceTree = "<group>"; };
 		43B5C3181F2AC44100285E2F /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 				43B5C3011F2AAB8600285E2F /* ViewController.h */,
 				43B5C3021F2AAB8600285E2F /* ViewController.m */,
 				43B5C3041F2AAB8600285E2F /* Main.storyboard */,
-				43B5C3151F2AC44100285E2F /* customImage.png */,
 				43B5C3161F2AC44100285E2F /* confetti.png */,
 				43B5C3171F2AC44100285E2F /* diamond.png */,
 				43B5C3181F2AC44100285E2F /* star.png */,
@@ -159,7 +156,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				43B5C31C1F2AC44100285E2F /* diamond.png in Resources */,
-				43B5C31A1F2AC44100285E2F /* customImage.png in Resources */,
 				43B5C30B1F2AAB8700285E2F /* LaunchScreen.storyboard in Resources */,
 				43B5C3081F2AAB8700285E2F /* Assets.xcassets in Resources */,
 				43B5C31D1F2AC44100285E2F /* star.png in Resources */,
